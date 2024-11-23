@@ -1,0 +1,46 @@
+header{
+    font-size: 30px;
+    background-color: darkkhaki;
+    text-align: center;
+    height: fit-content;
+}
+
+
+
+header img{
+    height: 100px;
+    width: 105px;
+    margin: 20px;
+}
+
+main{
+    background-color: ivory;
+    text-align: center;
+}
+
+main h1{
+    font-size: 40px;
+    color: rgb(46, 46, 116)
+}
+
+nav a{
+    padding: 5px;
+    margin: 35px;
+    border: 8px solid rgb(177, 204, 212);
+    border-radius: 15px;
+    text-decoration: none;
+    color: whitesmoke
+}
+
+main img{
+    height: 165px;
+    width: 155px;
+}
+
+footer{
+    background-color: darkkhaki;
+    color: whitesmoke;
+    padding: 5px;
+    margin: 10px;
+    font-size: 15px;
+}
