@@ -1,8 +1,9 @@
 header{
-    font-size: 30px;
+    font-size: 25px;
     background-color: darkkhaki;
     text-align: center;
     height: fit-content;
+
 }
 
 
@@ -16,6 +17,7 @@ header img{
 main{
     background-color: ivory;
     text-align: center;
+    font-size: 18px;
 }
 
 main h1{
@@ -23,18 +25,28 @@ main h1{
     color: rgb(46, 46, 116)
 }
 
+main h2{
+    font-size: 26px;
+    color: rgb(46, 46, 116);
+    background-color: lavender;
+}
+
 nav a{
     padding: 5px;
-    margin: 35px;
-    border: 8px solid rgb(177, 204, 212);
+    margin: 25px;
+    border: 5px solid rgb(46, 46, 116);
     border-radius: 15px;
     text-decoration: none;
-    color: whitesmoke
+    color: darkslategrey;
+    background-color: lavender;
 }
 
 main img{
     height: 165px;
     width: 155px;
+    padding: 5px;
+    border: 2px solid lavender;
+    border-radius: 5px;
 }
 
 footer{
@@ -43,4 +55,8 @@ footer{
     padding: 5px;
     margin: 10px;
     font-size: 15px;
+}
+
+body{
+    margin: 20px;
 }
