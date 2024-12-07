@@ -6,6 +6,9 @@ header{
 
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 
 header img{
